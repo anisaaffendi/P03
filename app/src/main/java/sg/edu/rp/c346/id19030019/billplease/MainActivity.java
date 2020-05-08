@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
                 etAmount.setText("");
                 etPax.setText("");
                 etDiscount.setText("");
+                tvTotal.setText("");
+                tvEach.setText("");
             }
         });
 
